@@ -7,7 +7,8 @@ This repository contains the following program(s):
 - `HW13/CLT.x` : Script for generating a visualization of the
                  manifestation of the central limit theorem
                  as the number of observations averaged per
-                 sample is increased. Inspired by [this graphic](https://commons.wikimedia.org/wiki/File:Central_Limit_Theorem.png). [C++]
+                 sample is increased. See result [here](https://i.ibb.co/mG7qTZn/CLT.png). Inspired by 
+                 [this graphic](https://commons.wikimedia.org/wiki/File:Central_Limit_Theorem.png). [C++]
 
 ### Requirements
 
